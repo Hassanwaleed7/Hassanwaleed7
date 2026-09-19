@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I'm Alhassan Waleed</h1>
+<h1 align="center">👋 <p align="center">
+  <img src="watermarked_img_11921424251267576092.jpg" alt="Coding Monkey Banner" width="100%"/>
+</p>
+  Hi, I'm Alhassan Waleed</h1>
 <h3 align="center">Passionate Computer Science Student & Backend Developer 🚀</h3>
 
 <br>
