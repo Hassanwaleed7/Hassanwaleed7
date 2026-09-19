@@ -6,8 +6,6 @@
 <h1 align="center">Hi, I'm Alhassan Waleed </h1>
 
 <h3 align="center">Passionate Computer Science Student & Backend Developer 🚀</h3>
-  Hi, I'm Alhassan Waleed</h1>
-<h3 align="center">Passionate Computer Science Student & Backend Developer 🚀</h3>
 
 <br>
 
