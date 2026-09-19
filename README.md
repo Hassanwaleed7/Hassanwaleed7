@@ -1,6 +1,6 @@
 <h1 align="center"> 
  <p align="center">
-  <img src="Coding_banner.jpeg" width="120" style="border-radius: 200%;" alt="Coding Monkey Avatar"/>
+  <img src="Coding_banner.jpeg" width="150" style="border-radius: 200%;" alt="Coding Monkey Avatar"/>
 </p>
 
 <h1 align="center">Hi, I'm Alhassan Waleed </h1>
