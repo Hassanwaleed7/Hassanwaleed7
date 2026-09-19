@@ -1,9 +1,9 @@
 <h1 align="center"> 
  <p align="center">
-  <img src="Coding_banner.jpeg" width="120" style="border-radius: 50%;" alt="Coding Monkey Avatar"/>
+  <img src="Coding_banner.jpeg" width="120" style="border-radius: 200%;" alt="Coding Monkey Avatar"/>
 </p>
 
-<h1 align="center">Hi, I'm Alhassan Waleed 👋</h1>
+<h1 align="center">Hi, I'm Alhassan Waleed </h1>
 
 <h3 align="center">Passionate Computer Science Student & Backend Developer 🚀</h3>
   Hi, I'm Alhassan Waleed</h1>
