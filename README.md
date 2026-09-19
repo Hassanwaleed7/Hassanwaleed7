@@ -1,5 +1,5 @@
 <h1 align="center"><h1>
-  <img src="Coding_banner.jpeg" width="40" height="40" style="vertical-align: middle; border-radius: 50%;"/>
+  <img src="Coding_banner.jpeg" width="60" height="60" style="vertical-align: middle; border-radius: 70%;"/>
   Hi, I'm Alhassan Waleed 
 </h1>
   Hi, I'm Alhassan Waleed</h1>
