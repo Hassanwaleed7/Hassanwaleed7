@@ -1,6 +1,7 @@
-<h1 align="center"><h1>
-  <img src="Coding_banner.jpeg" width="100" height="100" style="vertical-align: middle; border-radius: 120%;"/>
+<h1 align="center">
   Hi, I'm Alhassan Waleed 
+  <h1>
+  <img src="Coding_banner.jpeg" width="150" height="150" style="vertical-align: middle; border-radius: 200%;"/>
 </h1>
   Hi, I'm Alhassan Waleed</h1>
 <h3 align="center">Passionate Computer Science Student & Backend Developer 🚀</h3>
